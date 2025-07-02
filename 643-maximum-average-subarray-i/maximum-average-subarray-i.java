@@ -4,7 +4,7 @@ class Solution {
         int right=0;
         int sum=0;
         double avg=0;
-       double max = Double.NEGATIVE_INFINITY;
+       double max = Integer.MIN_VALUE;
         while(right<nums.length){
 
             
